@@ -30174,7 +30174,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-menu-1 {width: auto} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
-@media (max-width: 575px){ .u-header .u-image-1 {width: auto; margin-top: 16px; margin-left: -39px; height: 32px}
+@media (max-width: 575px){ .u-header .u-image-1 {margin-top: 16px; margin-left: -39px}
 .u-header .u-menu-1 {margin-top: -48px; margin-bottom: 32px} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 120px}
